@@ -1,0 +1,18 @@
+Idea submission Guidelines:
+
+PPTX/Keynote slides
+
+Idea Title: Written on cover page
+Problem Statement: What is the specific problem?
+Approach: How will you solve it? Problem by technology (your solution)?
+Mock images (optional)
+Team: Roles and competencies of team’s participants
+How we can help you? (additional information, access to specific resources etc)
+Project Submission Guidelines:
+
+PPTX/Keynote slides
+Project Title: Written on cover page
+Problem Statement: What is the specific problem?
+Approach: How will you solve it? Problem by technology (your solution)?
+Link to repository or demo
+Team: Roles and competencies of team’s participants (to be included in the PPTX)
